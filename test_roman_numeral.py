@@ -39,3 +39,13 @@ def test_58_is_LVIII():
 def test_1994_is_MCMXCIV():
     assert to_roman(1994) == "MCMXCIV"
 
+def test_boundaries_return_error():
+    assert to_roman(0) == "Error: Input must be between 1 and 3999"
+    assert to_roman(4000) == "Error: Input must be between 1 and 3999"
+
+def test_float_returns_error():
+    assert to_roman(2.5) == "Error: Input must be an integer"
+
+def test_string_returns_error():
+    assert to_roman("48") == "Error: Input must be an integer"
+

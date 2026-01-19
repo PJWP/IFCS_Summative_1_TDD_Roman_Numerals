@@ -6,8 +6,15 @@ ROMAN_PAIRS = [
                ]
 
 def to_roman(num):
+    if num != int(num):
+        return "Error: Input must be an integer"
+    if num <= 0 or num >= 4000:
+        return "Error: Input must be between 1 and 3999"
+
+    num = int(num)
     result = []
     remaining = num
+    
     for symbol, value in ROMAN_PAIRS:
         count = remaining // value
         remaining = remaining % value
