@@ -1,4 +1,4 @@
-ROMAN_PAIRS = [("X",10),("V",5),("I",1)]
+ROMAN_PAIRS = [("X",10),("IX",9),("V",5),("IV",4),("I",1)]
 
 def to_roman(num):
     result = []

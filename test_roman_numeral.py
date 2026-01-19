@@ -19,3 +19,9 @@ def test_5_is_V_and_6_is_VI():
 def test_10_is_X_and_12_is_XII():
     assert to_roman(10) == "X"
     assert to_roman(12) == "XII"
+
+def test_4_is_IV_and_9_is_IX():
+    assert to_roman(4) == "IV"
+    assert to_roman(9) == "IX"
+
+
