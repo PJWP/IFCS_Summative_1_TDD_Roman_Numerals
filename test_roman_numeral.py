@@ -24,4 +24,18 @@ def test_4_is_IV_and_9_is_IX():
     assert to_roman(4) == "IV"
     assert to_roman(9) == "IX"
 
+def test_90_is_XC():
+    assert to_roman(90) == "XC"
+    
+def test_400_is_CD():   
+    assert to_roman(400) == "CD"
+
+def test_900_is_CM():
+    assert to_roman(900) == "CM"
+
+def test_58_is_LVIII():
+    assert to_roman(58) == "LVIII"
+
+def test_1994_is_MCMXCIV():
+    assert to_roman(1994) == "MCMXCIV"
 
