@@ -24,8 +24,8 @@ A smaller numeral placed **before** a larger numeral means subtraction
 
 -IV = 5-1 = 4
 -IX = 10-1 = 9
-XL = 50-10 = 40
-XC = 100 -10 = 90
-CD = 500 - 100 = 400
-CM = 1000 - 100 = 900
+-XL = 50-10 = 40
+-XC = 100 -10 = 90
+-CD = 500 - 100 = 400
+-CM = 1000 - 100 = 900
 
