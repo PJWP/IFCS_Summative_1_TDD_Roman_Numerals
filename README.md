@@ -22,24 +22,24 @@
 ### Additive notation
 Symbols are added together when placed from highest to lowest
 
--III = 1+1+1 = 3
+- III = 1+1+1 = 3
 
--VIII = 5+1+1+1 = 8
+- VIII = 5+1+1+1 = 8
 
--LX = 50+10 = 60
+- LX = 50+10 = 60
 
 ### Subtractive notation
 A smaller numeral placed **before** a larger numeral means subtraction
 
--IV = 5-1 = 4
+- IV = 5-1 = 4
 
--IX = 10-1 = 9
+- IX = 10-1 = 9
 
--XL = 50-10 = 40
+- XL = 50-10 = 40
 
--XC = 100 -10 = 90
+- XC = 100 -10 = 90
 
--CD = 500 - 100 = 400
+- CD = 500 - 100 = 400
 
--CM = 1000 - 100 = 900
+- CM = 1000 - 100 = 900
 
