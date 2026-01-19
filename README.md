@@ -1,10 +1,10 @@
 # IFCS_Summative_1_TDD_Roman_Numerals
-##Input Requirements
+## Input Requirements
 
 - Input must be an integer
 - The valid range is 1 to 3999 (inclusive)
 
-##Roman Numeral Rules
+## Roman Numeral Rules
 - I = 1
 - V = 5
 - X = 10
@@ -12,14 +12,14 @@
 - C = 100
 - D = 500
 - M = 1000
-###Additive notation
+### Additive notation
 Symbols are added together when placed from highest to lowest
 
 -III = 1+1+1 = 3
 -VIII = 5+1+1+1 = 8
 -LX = 50+10 = 60
 
-###Subtractive notation
+### Subtractive notation
 A smaller numeral placed **before** a larger numeral means subtraction
 
 -IV = 5-1 = 4
