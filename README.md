@@ -1,4 +1,7 @@
 # IFCS_Summative_1_TDD_Roman_Numerals
+
+This algorithim should convert a number inputted into Roman Numerals
+
 ## Input Requirements
 
 - Input must be an integer
